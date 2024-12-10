@@ -35,7 +35,9 @@ The **Bhookh App** is a restaurant application built using React Native, designe
 
 # Getting Started
 
-> **Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
+An **APK** release is also available for direct download. You can find the latest APK in the [Releases](https://github.com/SAMIVo007/Bhookh/releases/tag/Bhookh-App) section of the repository.
+
+Or you can clone this repo and build your own apk. Just follow the steps below:
 
 ## Step 1: Clone the Repository
 
