@@ -9,6 +9,7 @@ module.exports = {
         backgroungColor: '#F6F6F7',
         foregroundColor: '#ffffff',
         primaryColor: '#FF640D',
+        titleColor: '#2F2E41',
       },
       fontFamily: {
         Pregular: ['ProximaNova-Regular', 'sans-serif'],

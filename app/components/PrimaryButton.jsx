@@ -6,6 +6,7 @@ const ButtonType = {
   large: 'text-white text-2xl font-Pbold',
   medium: 'text-white text-xl font-Pbold',
   small: 'text-white text-lg font-Pbold',
+  tiny: 'text-white text-sm font-Pbold',
 };
 
 export function PrimaryButton({
@@ -16,7 +17,7 @@ export function PrimaryButton({
   type = 'medium',
 }) {
   return (
-    <View className="bg-primaryColor rounded-xl overflow-hidden">
+    <View className="bg-primaryColor rounded-xl overflow-hidden justify-center items-center">
       <Pressable
         className={className}
         onPress={onPress}
