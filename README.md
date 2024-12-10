@@ -50,7 +50,7 @@ cd bhookh-app
 
 ## Step 2: Install Dependencies
 
-Make sure you have all required dependencies installed:
+Run `npm install` to make sure you have all required dependencies installed:
 
 - React Navigation
 - Zustand for state management
